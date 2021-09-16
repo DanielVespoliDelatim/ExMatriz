@@ -1,0 +1,7 @@
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\bin\Debug\Aula6Parte17.exe.config
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\bin\Debug\Aula6Parte17.exe
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\bin\Debug\Aula6Parte17.pdb
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\obj\Debug\Aula6Parte17.csprojAssemblyReference.cache
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\obj\Debug\Aula6Parte17.csproj.CoreCompileInputs.cache
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\obj\Debug\Aula6Parte17.exe
+D:\66\VISUALSTUDIOC#\Aula6Parte17\Aula6Parte17\obj\Debug\Aula6Parte17.pdb
